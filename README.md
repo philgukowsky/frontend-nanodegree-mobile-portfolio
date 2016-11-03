@@ -1,5 +1,10 @@
 ## Website Performance Optimization portfolio project
 
+##Changelog:
+##  Commented google font
+##  inlined css
+##  added "async" to .js files 
+
 Your challenge, if you wish to accept it (and we sure hope you will), is to optimize this online portfolio for speed! In particular, optimize the critical rendering path and make this page render as quickly as possible by applying the techniques you've picked up in the [Critical Rendering Path course](https://www.udacity.com/course/ud884).
 
 To get started, check out the repository and inspect the code.
@@ -57,3 +62,4 @@ The portfolio was built on Twitter's <a href="http://getbootstrap.com/">Bootstra
 changelog:
 Commented google font
 inlined css
+added "async" to .js files 
